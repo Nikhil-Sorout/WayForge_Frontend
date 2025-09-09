@@ -2,7 +2,7 @@ import axios from "axios";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 
 const api = axios.create({
-  baseURL: "http://localhost:4000", //Gateway URL
+  baseURL: "http://10.10.3.144:4000", //Gateway URL
 });
 
 api.interceptors.request.use(async (config) => {

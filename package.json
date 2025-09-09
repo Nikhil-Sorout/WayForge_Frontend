@@ -50,7 +50,6 @@
     "react-native-screens": "~4.11.1",
     "react-native-web": "~0.20.0",
     "react-native-webview": "13.13.5",
-    "winston": "^3.17.0",
     "zod": "^4.1.5",
     "zustand": "^5.0.8"
   },
